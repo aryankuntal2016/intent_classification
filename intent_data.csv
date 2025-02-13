@@ -1,0 +1,51 @@
+text,intent
+What is the baggage allowance for my flight?,BAGGAGE_ENQUIRY
+How much does it cost to add extra baggage?,BAGGAGE_ENQUIRY
+Can I carry a laptop bag in addition to my cabin baggage?,BAGGAGE_ENQUIRY
+What items are prohibited in checked baggage?,BAGGAGE_ENQUIRY
+How do I report lost or damaged baggage?,BAGGAGE_ENQUIRY
+What is the weight limit for carry-on luggage?,BAGGAGE_ENQUIRY
+Can I bring sports equipment as part of my baggage?,BAGGAGE_ENQUIRY
+How do I track my delayed baggage?,BAGGAGE_ENQUIRY
+Are there any restrictions on liquids in carry-on baggage?,BAGGAGE_ENQUIRY
+What should I do if my baggage is overweight?,BAGGAGE_ENQUIRY
+Does my flight offer in-flight Wi-Fi?,FLIGHT_AMENITIES
+Are meals provided on my flight?,FLIGHT_AMENITIES
+Can I request a special meal for dietary restrictions?,FLIGHT_AMENITIES
+Is there in-flight entertainment available?,FLIGHT_AMENITIES
+Are blankets and pillows provided on the flight?,FLIGHT_AMENITIES
+Can I upgrade to a seat with extra legroom?,FLIGHT_AMENITIES
+Are there power outlets available on the flight?,FLIGHT_AMENITIES
+Does my flight offer complimentary beverages?,FLIGHT_AMENITIES
+Can I bring my own food on the flight?,FLIGHT_AMENITIES
+Are there any amenities for children on the flight?,FLIGHT_AMENITIES
+Is there a lounge available for my airline at the airport?,AIRPORT_SERVICES
+How do I access the airport Wi-Fi?,AIRPORT_SERVICES
+Are there any duty-free shops at the airport?,AIRPORT_SERVICES
+Is there a shuttle service from the airport to the city center?,AIRPORT_SERVICES
+Can I book a hotel room at the airport?,AIRPORT_SERVICES
+Are there any restaurants or cafes at the airport?,AIRPORT_SERVICES
+How do I find the baggage claim area?,AIRPORT_SERVICES
+Is there a currency exchange service at the airport?,AIRPORT_SERVICES
+Are there any facilities for disabled passengers at the airport?,AIRPORT_SERVICES
+How do I get to the airport from the train station?,AIRPORT_SERVICES
+Do I need a visa to travel to my destination?,VISA_ENQUIRY
+How do I apply for a transit visa?,VISA_ENQUIRY
+What are the requirements for a tourist visa?,VISA_ENQUIRY
+How long does it take to process a visa application?,VISA_ENQUIRY
+Can I get a visa on arrival at my destination?,VISA_ENQUIRY
+What is the cost of a visa for my destination?,VISA_ENQUIRY
+How do I check the status of my visa application?,VISA_ENQUIRY
+What documents are required for a business visa?,VISA_ENQUIRY
+Can I extend my visa while I am abroad?,VISA_ENQUIRY
+What should I do if my visa application is denied?,VISA_ENQUIRY
+How do I check the status of my flight?,FLIGHT_STATUS
+Is my flight delayed or on time?,FLIGHT_STATUS
+What is the departure gate for my flight?,FLIGHT_STATUS
+Has my flight been canceled?,FLIGHT_STATUS
+What is the estimated arrival time for my flight?,FLIGHT_STATUS
+How do I get notifications about flight status changes?,FLIGHT_STATUS
+Can I track the flight in real-time?,FLIGHT_STATUS
+What should I do if my flight is delayed?,FLIGHT_STATUS
+How do I find out if my flight has been rescheduled?,FLIGHT_STATUS
+What is the boarding time for my flight?,FLIGHT_STATUS
